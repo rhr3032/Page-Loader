@@ -1,6 +1,6 @@
 # CSS Page Loader Animation | NUYsDev 🖥️
 
-## [Preview](#) | [Tutorial](#)
+## [Preview](https://rhr3032.github.io/Page-Loader/) | [Tutorial](https://youtu.be/PhHWG0ooygU)
 
 <!-- ### Include this Marketing Website ➡️
 
